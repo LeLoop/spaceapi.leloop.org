@@ -35,7 +35,7 @@
         <li>You should provide an <a href="http://www.useragentstring.com/">user-agent string</a>.</li>
         <li>A reasonable bot should poll us only once a day.</li>
     </ul>
-    You can read more about these guidelines <a href="">here</a>.</p>
+    You can read more about these guidelines <a href="http://wiki.leloop.org/index.php/SpaceAPI">here</a>.</p>
 </fieldset>
 
 <fieldset>
