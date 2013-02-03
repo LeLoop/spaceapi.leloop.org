@@ -20,11 +20,12 @@
     "status":"iteration in progress",
     "logo":"http://wiki.leloop.org/images/thumb/1/17/LeLoop-brainfuck.png/120px-LeLoop-brainfuck.png",
     "icon": {
-        "open":"http://leloop.org/open.png",
-        "closed":"http://leloop.org/close.png"
+        "open":"http://spaceapi.leloop.org/img/open.png",
+        "closed":"http://spaceapi.leloop.org/img/closed.png"
     },
     "cache": {
         "schedule": "d.01"
     },
-    "lastchange":1359896954
+    "lastchange":1359906373
+
 }
