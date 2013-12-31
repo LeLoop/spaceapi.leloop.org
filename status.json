@@ -1,5 +1,5 @@
 {
-    "api":"0.12",
+    "api":"0.13",
     "space":"Le Loop",
     "url":"http://leloop.org/",
     "contact": {
@@ -8,15 +8,19 @@
         "email":"contact@leloop.org",
         "ml":"leloop@lists.leloop.org"
     },
-    "feeds": [
-        {
-            "name":"blog","type":"application/rss+xml","url":"http://leloop.org/feed/"
+    "feeds": {
+        "blog":{
+            "type":"application/rss+xml","url":"http://leloop.org/feed/"
         }
-    ],
-    "address":"0bis, avenue Lucien Descaves, 75014 Paris, FRANCE",
-    "lat":2.332408,
-    "lon":48.817214,
-    "open":true,
+    },
+    "location":{
+        "address":"0bis, avenue Lucien Descaves, 75014 Paris, FRANCE",
+        "lat":2.332408,
+        "lon":48.817214
+    },
+    "state": {
+        "open":true
+    },
     "status":"iteration in progress",
     "logo":"http://wiki.leloop.org/images/thumb/1/17/LeLoop-brainfuck.png/120px-LeLoop-brainfuck.png",
     "icon": {
@@ -26,6 +30,7 @@
     "cache": {
         "schedule": "d.01"
     },
-    "lastchange":1388499666
+    "issue_report_channels":["email"],
+    "lastchange":1388500686
 
 }
