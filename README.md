@@ -2,7 +2,7 @@
 
 SpaceAPI implementation for Le Loop hackerspace.
 
-Currently complies with the spec v0.12.
+Currently complies with the spec v0.13.
 
 ### Hack me!
 
