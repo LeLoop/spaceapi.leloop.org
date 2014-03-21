@@ -14,12 +14,13 @@
         }
     },
     "location":{
-        "address":"0bis, avenue Lucien Descaves, 75014 Paris, FRANCE",
-        "lat":2.332408,
-        "lon":48.817214
+        "address":"20-20bis, rue de Reuilly, 75012 Paris, FRANCE",
+        "lat":2.385677,
+        "lon":48.848585
     },
     "state": {
-        "open":true
+        "open":false
+        "lastchange":1395442751
     },
     "status":"iteration in progress",
     "logo":"http://wiki.leloop.org/images/thumb/1/17/LeLoop-brainfuck.png/120px-LeLoop-brainfuck.png",
@@ -31,6 +32,4 @@
         "schedule": "d.01"
     },
     "issue_report_channels":["email"],
-    "lastchange":1388500686
-
 }
