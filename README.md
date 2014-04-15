@@ -8,4 +8,4 @@ Currently complies with the spec v0.13.
 
 Feel free to hack this! Send your patches to `spaceapi ! leloop ! org`.
 
-See [spaceapi.leloop.org](http://spaceapi.leloop.org).
+See [spaceapi.leloop.org](https://spaceapi.leloop.org).
