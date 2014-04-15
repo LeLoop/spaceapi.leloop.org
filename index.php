@@ -35,7 +35,7 @@
         <li>You should provide an <a href="http://www.useragentstring.com/">user-agent string</a>.</li>
         <li>A reasonable bot should poll us only once a day.</li>
     </ul>
-    You can read more about these guidelines <a href="http://wiki.leloop.org/index.php/SpaceAPI">here</a>.</p>
+    You can read more about these guidelines <a href="https://wiki.leloop.org/index.php/SpaceAPI">here</a>.</p>
 </fieldset>
 
 <fieldset>
@@ -43,7 +43,11 @@
     <p><pre><?php include('status.json'); ?></pre></p>
 </fieldset>
 
-<p id="footer">[ <a href="mailto:spaceapi@leloop.org">contact</a> | <a href="http://leloop.org">LeLoop.org</a> ]</p>
+<p id="footer">
+    [ <a href="https://git.leloop.org/leloop/spaceapi-leloop-org">kopimi</a> |
+    <a href="mailto:spaceapi@leloop.org">contact</a> |
+    <a href="https://leloop.org">LeLoop.org</a> ]
+</p>
 
 </div>
 
