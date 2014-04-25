@@ -31,5 +31,7 @@
     "cache": {
         "schedule": "d.01"
     },
-    "issue_report_channels":["email"],
+    "issue_report_channels":[
+        "email"
+    ]
 }
