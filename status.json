@@ -15,12 +15,12 @@
     },
     "location":{
         "address":"20-20bis, rue de Reuilly, 75012 Paris, FRANCE",
-        "lat":48.848585
-        "lon":2.385677,
+        "lat":48.848585,
+        "lon":2.385677
     },
     "state": {
         "open":false,
-        "lastchange":1401199050
+        "lastchange":1404838014
     },
     "status":"iteration in progress",
     "logo":"https://wiki.leloop.org/images/thumb/1/17/LeLoop-brainfuck.png/120px-LeLoop-brainfuck.png",
