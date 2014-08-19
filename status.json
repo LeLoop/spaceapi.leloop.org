@@ -19,8 +19,8 @@
         "lon":2.385677
     },
     "state": {
-        "open":false,
-        "lastchange":1404838778
+        "open":true,
+        "lastchange":1408455208
     },
     "status":"iteration in progress",
     "logo":"https://wiki.leloop.org/images/thumb/1/17/LeLoop-brainfuck.png/120px-LeLoop-brainfuck.png",
