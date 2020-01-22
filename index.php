@@ -44,7 +44,7 @@
 </fieldset>
 
 <p id="footer">
-    [ <a href="https://git.leloop.org/leloop/spaceapi-leloop-org">kopimi</a> |
+    [ <a href="https://github.com/LeLoop/spaceapi.leloop.org">kopimi</a> |
     <a href="mailto:spaceapi@leloop.org">contact</a> |
     <a href="https://leloop.org">LeLoop.org</a> ]
 </p>
