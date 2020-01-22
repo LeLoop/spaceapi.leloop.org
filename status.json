@@ -1,7 +1,7 @@
 {
     "api":"0.13",
     "space":"Le Loop",
-    "url":"https://leloop.org/",
+    "url":"http://leloop.org/",
     "contact": {
         "twitter":"@Le_Loop",
         "irc":"irc://irc.freenode.org/leloop",
@@ -10,21 +10,21 @@
     },
     "feeds": {
         "blog":{
-            "type":"application/rss+xml","url":"https://leloop.org/feed/"
+            "type":"application/rss+xml","url":"http://leloop.org/feed/"
         }
     },
     "state": {
         "open":false,
-        "lastchange":1441209247
+        "lastchange":1440633600
     },
-    "status":"iteration in progress",
+    "status":"Definitively closed.",
     "logo":"https://wiki.leloop.org/images/thumb/1/17/LeLoop-brainfuck.png/120px-LeLoop-brainfuck.png",
     "icon": {
         "open":"https://spaceapi.leloop.org/img/open.png",
         "closed":"https://spaceapi.leloop.org/img/closed.png"
     },
     "cache": {
-        "schedule": "d.01"
+        "schedule": "m.99"
     },
     "issue_report_channels":[
         "email"
