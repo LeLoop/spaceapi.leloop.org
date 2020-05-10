@@ -10,5 +10,4 @@ See [spaceapi.leloop.org](https://spaceapi.leloop.org).
 
 ### Hack me!
 
-Feel free to hack this! [clone me](https://git.leloop.org/leloop/spaceapi-leloop-org)
-and send your patches to `spaceapi ! leloop ! org`.
+Feel free to hack this! Clone me and send your patches to `spaceapi ! leloop ! org`.
